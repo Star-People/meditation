@@ -92,3 +92,10 @@ Regenerate README screenshots:
 ```sh
 npm run screenshots
 ```
+
+
+## Current licensing
+
+Original UFO Files software is available under the **UFO Files Noncommercial Shared-Source License 1.0**: no commercial use; distributed derivatives and modified network services must provide corresponding source under the same terms. Original content is **CC BY-NC-SA 4.0**, only to the extent we control its rights.
+
+See [LICENSE](LICENSE), [LICENSE-CONTENT.txt](LICENSE-CONTENT.txt), and [LICENSING.md](LICENSING.md) for scope, exceptions, and the transition from prior grants. These are source-available terms, not an OSI-approved open-source license. Third-party materials and public-domain records retain their own status.
