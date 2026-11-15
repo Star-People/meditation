@@ -1,11 +1,11 @@
 # UFO Files / Meditation
 
-[![Deploy to GitHub Pages](https://github.com/Star-People/meditation/actions/workflows/pages.yml/badge.svg)](https://github.com/Star-People/meditation/actions/workflows/pages.yml)
-[![Screenshots](https://github.com/Star-People/meditation/actions/workflows/screenshots.yml/badge.svg)](https://github.com/Star-People/meditation/actions/workflows/screenshots.yml)
+[![Deploy to GitHub Pages](https://github.com/starpeopleai/meditation/actions/workflows/pages.yml/badge.svg)](https://github.com/starpeopleai/meditation/actions/workflows/pages.yml)
+[![Screenshots](https://github.com/starpeopleai/meditation/actions/workflows/screenshots.yml/badge.svg)](https://github.com/starpeopleai/meditation/actions/workflows/screenshots.yml)
 
 Meditation is a minimal browser-based sound and visualization instrument. It uses a real Gaia DR3 star field as the visual foundation, then layers synthetic breath, heartbeat, drone, and sound-bath audio over it.
 
-Live app: https://star-people.github.io/meditation/
+Live app: https://starpeopleai.github.io/meditation/
 
 Anonymous tips: https://tips.hushline.app/to/ufo-files
 
